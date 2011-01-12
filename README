@@ -1,0 +1,9 @@
+The service is based on Google App Engine (GAE) technology: http://code.google.com/appengine/
+Also it uses RememberTheMilk.com (RTM) API: http://www.rememberthemilk.com/services/api/
+
+So you need to:
+
+  * Register at GAE service
+  * Register application at RTM
+  * Copy Config.py.template to Config.py and fill Config.py with your keys and secrets
+  * Uload the code to GAE
